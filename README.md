@@ -19,7 +19,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)<bk>
 
-
+What is a robo-advisor. A robo-advisor collects information from clients regarding risk tolerance and goals and then provides advice and automated investing and prtfolio design. Robo-advisors provide access and money management options at a fraction of the cost of traditional portfolio managemers. 
 
 
 ## Landscape:
