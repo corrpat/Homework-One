@@ -1,6 +1,6 @@
 
 
-# Betterrment
+# Betterment
 
 ![Betterment logo](https://www.betterment.com/hubfs/Graphics/Featured-images/b2c_default.png#keepProtocol)
 
