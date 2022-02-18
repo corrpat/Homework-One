@@ -4,7 +4,7 @@
 
 ## Overview and Origin:
 
-![Betterment logo](/Homework-One/images/better2.png)
+![Betterment logo](Homework-One/images/better2.png)
 
 
 Betterment is an online investment company that offers investing and retirement solutions for its clients. This type of investment firm is commonly referred to as Robo-advisors, of which Betterment is considered one of the earliest examples. Betterment was founded in 2008 by Jon Stein, who started building the platform with his roomamte Sean Owen, a Google software engineer. Upon dealing with the regulatory landscape of building a broker-dealer, Stein brought in Eli Broverman as a co-founder. Broverman was a securities lawyer Stein had met over a regular poker game. [^1]
@@ -27,7 +27,7 @@ Betterment uses a variety of technology in its approach, including JavaScript, P
 
 ## Landscape:
 
-![robos map](/Homework-One/images/best-roboadvisors-1.jpeg)
+![robos map](Homework-One/images/best-roboadvisors-1.jpeg)
 
 
 The use of robo-advisors has grown tremendously since Betterment came on the scene. According to eMarketer, about 3.5 million investors used a robo-advisor in 2021, up 23.2% from 2020, which had record growth of 37.4%. This growth is expected to continue, with more than 5 million people using a robo-advisor by 2025.[^9] Adoption in wealthy millenials is particularly strong. Accordiung to a survey by Hearts and Wallets, 50% of millenials with $500,000 to invest use robo-advisors.[^10]
