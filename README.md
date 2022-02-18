@@ -2,10 +2,9 @@
 
 # Betterrment
 
-## Overview and Origin:
-
 ![Betterment logo](https://www.betterment.com/hubfs/Graphics/Featured-images/b2c_default.png#keepProtocol)
 
+## Overview and Origin:
 
 Betterment is an online investment company that offers investing and retirement solutions for its clients. This type of investment firm is commonly referred to as Robo-advisors, of which Betterment is considered one of the earliest examples. Betterment was founded in 2008 by Jon Stein, who started building the platform with his roomamte Sean Owen, a Google software engineer. Upon dealing with the regulatory landscape of building a broker-dealer, Stein brought in Eli Broverman as a co-founder. Broverman was a securities lawyer Stein had met over a regular poker game. [^1]
 
